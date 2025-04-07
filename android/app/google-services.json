@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "666673361201",
+    "project_id": "alpha-checklist-fiy1cd",
+    "storage_bucket": "alpha-checklist-fiy1cd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:666673361201:android:7ba1d7ebdb66e165378010",
+        "android_client_info": {
+          "package_name": "com.mycompany.alphachecklist"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDrx5N8IVHpCOwDJH90I_tq8QBZkHvgwLg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

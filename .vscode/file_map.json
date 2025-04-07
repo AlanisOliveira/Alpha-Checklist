@@ -1,0 +1,242 @@
+{
+  "generate_p_d_f_from_json.dart": {
+    "old_identifier_name": "generatePDFFromJson",
+    "new_identifier_name": "generatePDFFromJson",
+    "type": "A",
+    "is_deleted": false,
+    "current_checksum": "865471d41b5aa2550b3b7779bef90c6cdcc7f4b9e4286413751a04bbaa9aab2d",
+    "original_checksum": "865471d41b5aa2550b3b7779bef90c6cdcc7f4b9e4286413751a04bbaa9aab2d"
+  },
+  "foto_galeria.dart": {
+    "old_identifier_name": "fotoGaleria",
+    "new_identifier_name": "fotoGaleria",
+    "type": "A",
+    "is_deleted": false,
+    "current_checksum": "af7657fc327b74c908040b5afa772e39a5044a73860464250fad967336331144",
+    "original_checksum": "af7657fc327b74c908040b5afa772e39a5044a73860464250fad967336331144"
+  },
+  "load_mensal_draft.dart": {
+    "old_identifier_name": "loadMensalDraft",
+    "new_identifier_name": "loadMensalDraft",
+    "type": "A",
+    "is_deleted": false,
+    "current_checksum": "e12f7c23ccad2877b3c8ee7c5022923b8ffa565d0508c68278186c9feab219d6",
+    "original_checksum": "e12f7c23ccad2877b3c8ee7c5022923b8ffa565d0508c68278186c9feab219d6"
+  },
+  "load_draft_and_navigate.dart": {
+    "old_identifier_name": "loadDraftAndNavigate",
+    "new_identifier_name": "loadDraftAndNavigate",
+    "type": "A",
+    "is_deleted": false,
+    "current_checksum": "bb504430e6264989ead746c1c77d0e3c3aefab2469e9aa507d8ce5c5d27bf9d3",
+    "original_checksum": "bb504430e6264989ead746c1c77d0e3c3aefab2469e9aa507d8ce5c5d27bf9d3"
+  },
+  "gerar_p_d_f.dart": {
+    "old_identifier_name": "gerarPDF",
+    "new_identifier_name": "gerarPDF",
+    "type": "A",
+    "is_deleted": false,
+    "current_checksum": "eefc0a539348059fc0624f3fdbfb116ca315cd5a67a4fae402efe5512b7c146c",
+    "original_checksum": "eefc0a539348059fc0624f3fdbfb116ca315cd5a67a4fae402efe5512b7c146c"
+  },
+  "create_new_draft_mensal.dart": {
+    "old_identifier_name": "createNewDraftMensal",
+    "new_identifier_name": "createNewDraftMensal",
+    "type": "A",
+    "is_deleted": false,
+    "current_checksum": "d4dbb658350abb557b66f0208926ec91dab5c9561083d51ccd4d7135b75da2fa",
+    "original_checksum": "d4dbb658350abb557b66f0208926ec91dab5c9561083d51ccd4d7135b75da2fa"
+  },
+  "insert_setor_funcao.dart": {
+    "old_identifier_name": "insertSetorFuncao",
+    "new_identifier_name": "insertSetorFuncao",
+    "type": "A",
+    "is_deleted": false,
+    "current_checksum": "40ab0bc45f49a7950c6257179f5754f325fda66e37716f046a4c354ac5385682",
+    "original_checksum": "40ab0bc45f49a7950c6257179f5754f325fda66e37716f046a4c354ac5385682"
+  },
+  "create_new_draft_risco.dart": {
+    "old_identifier_name": "createNewDraftRisco",
+    "new_identifier_name": "createNewDraftRisco",
+    "type": "A",
+    "is_deleted": false,
+    "current_checksum": "f88d8dfaae2bc28c2679f7478a06d3cd215167a61535ba8b1da6d7200c0e870a",
+    "original_checksum": "f88d8dfaae2bc28c2679f7478a06d3cd215167a61535ba8b1da6d7200c0e870a"
+  },
+  "save_draft_to_s_q_lite.dart": {
+    "old_identifier_name": "saveDraftToSQLite",
+    "new_identifier_name": "saveDraftToSQLite",
+    "type": "A",
+    "is_deleted": false,
+    "current_checksum": "0a9eb05b01f6d223c5ea1f198abf22e8c114920da62be29b76488f9710a74165",
+    "original_checksum": "0a9eb05b01f6d223c5ea1f198abf22e8c114920da62be29b76488f9710a74165"
+  },
+  "foto_camera.dart": {
+    "old_identifier_name": "fotoCamera",
+    "new_identifier_name": "fotoCamera",
+    "type": "A",
+    "is_deleted": false,
+    "current_checksum": "c87dee87455ee9369cd3f19c517607aefd8200456d59eca1ee65150658015c29",
+    "original_checksum": "c87dee87455ee9369cd3f19c517607aefd8200456d59eca1ee65150658015c29"
+  },
+  "generate_p_d_f.dart": {
+    "old_identifier_name": "generatePDF",
+    "new_identifier_name": "generatePDF",
+    "type": "A",
+    "is_deleted": false,
+    "current_checksum": "c4bdc8f7f4ee0b20540ea6a9c21961717e486e0fa9622b96e6822877394b6267",
+    "original_checksum": "c4bdc8f7f4ee0b20540ea6a9c21961717e486e0fa9622b96e6822877394b6267"
+  },
+  "save_draft_to_s_q_lite_mensal.dart": {
+    "old_identifier_name": "saveDraftToSQLiteMensal",
+    "new_identifier_name": "saveDraftToSQLiteMensal",
+    "type": "A",
+    "is_deleted": false,
+    "current_checksum": "c198c017bfb29080f314bce734e693bd4ddf716f0867470d3a29c5097b8cb787",
+    "original_checksum": "c198c017bfb29080f314bce734e693bd4ddf716f0867470d3a29c5097b8cb787"
+  },
+  "gerar_p_d_f_mensal.dart": {
+    "old_identifier_name": "gerarPDFMensal",
+    "new_identifier_name": "gerarPDFMensal",
+    "type": "A",
+    "is_deleted": false,
+    "current_checksum": "ccb08253bf702dac82d23c15fb166dd6701c64746d7662344b03ff1287923471",
+    "original_checksum": "ccb08253bf702dac82d23c15fb166dd6701c64746d7662344b03ff1287923471"
+  },
+  "exportar_d_b.dart": {
+    "old_identifier_name": "exportarDB",
+    "new_identifier_name": "exportarDB",
+    "type": "A",
+    "is_deleted": false,
+    "current_checksum": "f0739e9389516eda09dfae6721055c56732cb251d042390a8195b52542a2d127",
+    "original_checksum": "f0739e9389516eda09dfae6721055c56732cb251d042390a8195b52542a2d127"
+  },
+  "gerar_dados_selecionados.dart": {
+    "old_identifier_name": "gerarDadosSelecionados",
+    "new_identifier_name": "gerarDadosSelecionados",
+    "type": "A",
+    "is_deleted": false,
+    "current_checksum": "e44b0747305a1bbe4cf886e923c8a48103b1b1e74c665efaf428deef3496cb32",
+    "original_checksum": "e44b0747305a1bbe4cf886e923c8a48103b1b1e74c665efaf428deef3496cb32"
+  },
+  "image_assinatura.dart": {
+    "old_identifier_name": "ImageAssinatura",
+    "new_identifier_name": "ImageAssinatura",
+    "type": "W",
+    "is_deleted": false,
+    "current_checksum": "47b44d03fa1362957c3e056f12cc77bb3d5c3961ab47d0ad4b1f47add58fba7d",
+    "original_checksum": "47b44d03fa1362957c3e056f12cc77bb3d5c3961ab47d0ad4b1f47add58fba7d"
+  },
+  "assinatura_d_b.dart": {
+    "old_identifier_name": "AssinaturaDB",
+    "new_identifier_name": "AssinaturaDB",
+    "type": "W",
+    "is_deleted": false,
+    "current_checksum": "0d109e9d5a41c2517be00925fab62e184cf7e4374466cc2bbe251272127e701c",
+    "original_checksum": "0d109e9d5a41c2517be00925fab62e184cf7e4374466cc2bbe251272127e701c"
+  },
+  "html_image.dart": {
+    "old_identifier_name": "HtmlImage",
+    "new_identifier_name": "HtmlImage",
+    "type": "W",
+    "is_deleted": false,
+    "current_checksum": "e404809028e33efda7bebaeadb6a106b058ac12a7588a77bd786cb8749d24470",
+    "original_checksum": "e404809028e33efda7bebaeadb6a106b058ac12a7588a77bd786cb8749d24470"
+  },
+  "assinatura_widget.dart": {
+    "old_identifier_name": "AssinaturaWidget",
+    "new_identifier_name": "AssinaturaWidget",
+    "type": "W",
+    "is_deleted": false,
+    "current_checksum": "cc2e8b750dbf1398f58dcc9afa91973585724635027b541fd9b4eb47eadcf208",
+    "original_checksum": "cc2e8b750dbf1398f58dcc9afa91973585724635027b541fd9b4eb47eadcf208"
+  },
+  "checkbox_assinatura.dart": {
+    "old_identifier_name": "CheckboxAssinatura",
+    "new_identifier_name": "CheckboxAssinatura",
+    "type": "W",
+    "is_deleted": false,
+    "current_checksum": "82c4c611bbe2c2dc3c9115b1efbfffabcd7029dee79f8e15d774d842c59aa270",
+    "original_checksum": "82c4c611bbe2c2dc3c9115b1efbfffabcd7029dee79f8e15d774d842c59aa270"
+  },
+  "improved_db_import.dart": {
+    "old_identifier_name": "ImprovedDbImport",
+    "new_identifier_name": "ImprovedDbImport",
+    "type": "W",
+    "is_deleted": false,
+    "current_checksum": "ab22dbabcd4f88389a3304753761d7c2d72c15e150cb8a13ebbde9b54a76d815",
+    "original_checksum": "ab22dbabcd4f88389a3304753761d7c2d72c15e150cb8a13ebbde9b54a76d815"
+  },
+  "importar_avaliadores_widget.dart": {
+    "old_identifier_name": "ImportarAvaliadoresWidget",
+    "new_identifier_name": "ImportarAvaliadoresWidget",
+    "type": "W",
+    "is_deleted": false,
+    "current_checksum": "2bb6078960ca5c8bd7c607d4081c5394b621beb2e1ddca5f33d986707c72d839",
+    "original_checksum": "2bb6078960ca5c8bd7c607d4081c5394b621beb2e1ddca5f33d986707c72d839"
+  },
+  "importar_empresas_widget.dart": {
+    "old_identifier_name": "ImportarEmpresasWidget",
+    "new_identifier_name": "ImportarEmpresasWidget",
+    "type": "W",
+    "is_deleted": false,
+    "current_checksum": "a24678f5b0dc74395a9cc3c366bb870f06c5cf53d36e5925146964c4dbf2c31a",
+    "original_checksum": "a24678f5b0dc74395a9cc3c366bb870f06c5cf53d36e5925146964c4dbf2c31a"
+  },
+  "importar_agentes_risco_widget.dart": {
+    "old_identifier_name": "ImportarAgentesRiscoWidget",
+    "new_identifier_name": "ImportarAgentesRiscoWidget",
+    "type": "W",
+    "is_deleted": false,
+    "current_checksum": "ce8ff1339d6e3a5cde75d45efd49c8d1287f3145175f44d5a800e5263862ee67",
+    "original_checksum": "ce8ff1339d6e3a5cde75d45efd49c8d1287f3145175f44d5a800e5263862ee67"
+  },
+  "importar_e_p_is_widget.dart": {
+    "old_identifier_name": "ImportarEPIsWidget",
+    "new_identifier_name": "ImportarEPIsWidget",
+    "type": "W",
+    "is_deleted": false,
+    "current_checksum": "93db997df6449f0be3b05f1845a175ca04c901a76c80afcbcb07f059d5020040",
+    "original_checksum": "93db997df6449f0be3b05f1845a175ca04c901a76c80afcbcb07f059d5020040"
+  },
+  "importar_e_p_cs_widget.dart": {
+    "old_identifier_name": "ImportarEPCsWidget",
+    "new_identifier_name": "ImportarEPCsWidget",
+    "type": "W",
+    "is_deleted": false,
+    "current_checksum": "9de0d6f9f4cb23be0ae638777deeebe51140a2d3a8308c14b717a3d1dc8aba36",
+    "original_checksum": "9de0d6f9f4cb23be0ae638777deeebe51140a2d3a8308c14b717a3d1dc8aba36"
+  },
+  "importar_medidas_controle_widget.dart": {
+    "old_identifier_name": "ImportarMedidasControleWidget",
+    "new_identifier_name": "ImportarMedidasControleWidget",
+    "type": "W",
+    "is_deleted": false,
+    "current_checksum": "97e40f8e6d469ac7ee483059a72eb0eea17f0b391c5c9f4d42db22aa94f36161",
+    "original_checksum": "97e40f8e6d469ac7ee483059a72eb0eea17f0b391c5c9f4d42db22aa94f36161"
+  },
+  "importar_dados_adicionais_widget.dart": {
+    "old_identifier_name": "ImportarDadosAdicionaisWidget",
+    "new_identifier_name": "ImportarDadosAdicionaisWidget",
+    "type": "W",
+    "is_deleted": false,
+    "current_checksum": "452330cffd70b14af05a860c386df823f978554ee333e88531fa4ec751af4da5",
+    "original_checksum": "452330cffd70b14af05a860c386df823f978554ee333e88531fa4ec751af4da5"
+  },
+  "custom_functions.dart": {
+    "old_identifier_name": "CustomFunctions",
+    "new_identifier_name": "CustomFunctions",
+    "type": "F",
+    "is_deleted": false,
+    "current_checksum": "98417ed7533ed45da8d232a2a0d34bb30706f61a0a8cb0d7994b2d63fcc82252",
+    "original_checksum": "98417ed7533ed45da8d232a2a0d34bb30706f61a0a8cb0d7994b2d63fcc82252"
+  },
+  "pubspec.yaml": {
+    "old_identifier_name": "pubspec.yaml",
+    "new_identifier_name": "pubspec.yaml",
+    "type": "D",
+    "is_deleted": false,
+    "current_checksum": "1a1bff09ce0b87d6ab14a498c883500c052e5c06dff64d07159d8088da4bd018",
+    "original_checksum": "1a1bff09ce0b87d6ab14a498c883500c052e5c06dff64d07159d8088da4bd018"
+  }
+}

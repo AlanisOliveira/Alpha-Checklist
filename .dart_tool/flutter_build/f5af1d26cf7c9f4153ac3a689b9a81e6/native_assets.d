@@ -1,0 +1,1 @@
+ D:\\alpha-checklist-fiy1cd\\.dart_tool\\flutter_build\\f5af1d26cf7c9f4153ac3a689b9a81e6\\native_assets.yaml: 
