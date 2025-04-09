@@ -150,14 +150,26 @@ Future<File?> _gerarArquivoCSV(
 Future<bool> _abrirPasta(String caminho) async {
   try {
     print('Tentando abrir pasta: $caminho');
-    final result = await OpenFile.open(caminho);
+    
+    // Usar o tipo MIME específico para diretórios
+    final result = await OpenFile.open(
+      caminho,
+      type: 'resource/folder', // Tipo MIME para pastas
+    );
 
     if (result.type == ResultType.done) {
       print('Pasta aberta com sucesso!');
       return true;
     } else {
       print('Erro ao abrir pasta: ${result.message}');
-      return false;
+      
+      // Se o primeiro tipo MIME falhar, tentar com outro
+      final secondAttempt = await OpenFile.open(
+        caminho,
+        type: 'vnd.android.document/directory',
+      );
+      
+      return secondAttempt.type == ResultType.done;
     }
   } catch (e) {
     print('Exceção ao tentar abrir pasta: $e');

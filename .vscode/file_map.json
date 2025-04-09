@@ -108,7 +108,7 @@
     "new_identifier_name": "exportarDB",
     "type": "A",
     "is_deleted": false,
-    "current_checksum": "f0739e9389516eda09dfae6721055c56732cb251d042390a8195b52542a2d127",
+    "current_checksum": "a281e53a6ab8feab1340f83e950878193b0e7b867c0efe13b018b8fefd711ecf",
     "original_checksum": "f0739e9389516eda09dfae6721055c56732cb251d042390a8195b52542a2d127"
   },
   "gerar_dados_selecionados.dart": {
@@ -116,7 +116,7 @@
     "new_identifier_name": "gerarDadosSelecionados",
     "type": "A",
     "is_deleted": false,
-    "current_checksum": "e44b0747305a1bbe4cf886e923c8a48103b1b1e74c665efaf428deef3496cb32",
+    "current_checksum": "91925f6afc735b404dbf5b13889df6ab1113f06c370568b528fc3443a090365b",
     "original_checksum": "e44b0747305a1bbe4cf886e923c8a48103b1b1e74c665efaf428deef3496cb32"
   },
   "image_assinatura.dart": {
@@ -238,5 +238,12 @@
     "is_deleted": false,
     "current_checksum": "1a1bff09ce0b87d6ab14a498c883500c052e5c06dff64d07159d8088da4bd018",
     "original_checksum": "1a1bff09ce0b87d6ab14a498c883500c052e5c06dff64d07159d8088da4bd018"
+  },
+  "vacuum.dart": {
+    "old_identifier_name": "vacuum",
+    "new_identifier_name": "vacuum",
+    "type": "A",
+    "is_deleted": false,
+    "current_checksum": "da631319ba3ac637bf00f33fda4a51dfee946c197045d94d26131ce7722dc489"
   }
 }

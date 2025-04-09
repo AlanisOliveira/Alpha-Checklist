@@ -13,3 +13,4 @@ export 'save_draft_to_s_q_lite_mensal.dart' show saveDraftToSQLiteMensal;
 export 'gerar_p_d_f_mensal.dart' show gerarPDFMensal;
 export 'exportar_d_b.dart' show exportarDB;
 export 'gerar_dados_selecionados.dart' show gerarDadosSelecionados;
+export 'vacuum.dart' show vacuum;

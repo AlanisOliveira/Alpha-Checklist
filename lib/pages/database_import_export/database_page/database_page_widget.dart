@@ -958,7 +958,27 @@ class _DatabasePageWidgetState extends State<DatabasePageWidget> {
                                   ].divide(SizedBox(width: 16.0)),
                                 ),
                                 FFButtonWidget(
-                                  onPressed: () async {},
+                                  onPressed: () async {
+                                    // Chamar a custom action
+                                    final resultado = await actions.vacuum();
+                                    
+                                    // Mostrar resultado ao usuário
+                                    await showDialog(
+                                      context: context,
+                                      builder: (BuildContext context) {
+                                        return AlertDialog(
+                                          title: Text('Otimização Concluída'),
+                                          content: Text(resultado),
+                                          actions: [
+                                            TextButton(
+                                              onPressed: () => Navigator.pop(context),
+                                              child: Text('OK'),
+                                            ),
+                                          ],
+                                        );
+                                      },
+                                    );
+                                  },
                                   text:
                                       'Limpar cache do banco de dados do aplicativo',
                                   options: FFButtonOptions(

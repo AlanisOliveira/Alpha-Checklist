@@ -129,8 +129,8 @@
 64-->[androidx.core:core:1.13.1] C:\Users\Diogo\.gradle\caches\transforms-3\6e32fb2250051552befa7bfdd0a2cbaa\transformed\core-1.13.1\AndroidManifest.xml:28:18-86
 65        android:debuggable="true"
 66        android:extractNativeLibs="false"
-67        android:icon="@mipmap/ic_launcher"
-67-->D:\alpha-checklist-fiy1cd\android\app\src\main\AndroidManifest.xml:13:9-43
+67        android:icon="@mipmap/launcher_icon"
+67-->D:\alpha-checklist-fiy1cd\android\app\src\main\AndroidManifest.xml:13:9-45
 68        android:label="Alpha Checklist"
 68-->D:\alpha-checklist-fiy1cd\android\app\src\main\AndroidManifest.xml:11:9-40
 69        android:requestLegacyExternalStorage="true" >

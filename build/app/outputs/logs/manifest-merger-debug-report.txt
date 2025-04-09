@@ -240,7 +240,7 @@ MERGED from [com.google.android.datatransport:transport-runtime:3.1.9] C:\Users\
 	android:label
 		ADDED from D:\alpha-checklist-fiy1cd\android\app\src\main\AndroidManifest.xml:11:9-40
 	android:icon
-		ADDED from D:\alpha-checklist-fiy1cd\android\app\src\main\AndroidManifest.xml:13:9-43
+		ADDED from D:\alpha-checklist-fiy1cd\android\app\src\main\AndroidManifest.xml:13:9-45
 	tools:replace
 		ADDED from D:\alpha-checklist-fiy1cd\android\app\src\main\AndroidManifest.xml:12:9-38
 activity#com.mycompany.alphachecklist.MainActivity
